@@ -55,8 +55,11 @@ while True:
     if Op == "Division":
         if n1 == 0 or n2 == 0:
             print("Dividir entre cero o dividir cero no esta permitido intente nuevamente")
+            break
         else:
             print("las division de {} / {} tiene como resultado {} ".format(n1,n2,n1/n2))
+            break
+        break
     if Op != "Suma" or "Resta" or "Multiplicacion" or "Division":
         print("Introduza una opcion valida, ejemplo: Suma")
             
