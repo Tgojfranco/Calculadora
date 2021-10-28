@@ -7,7 +7,7 @@ a los cuales vamos a operar, despues seleccionar la operacion que
 se quiere realizar
 """
 Selec_Operacion ="""
-Selecciona la operacion de su eleccion
+Seleccione la operacion de su eleccion
 1.- Suma
 2.- Resta
 3.- Multiplicacion
